@@ -86,6 +86,8 @@ This repository is licensed under the MIT License. See the `LICENSE` file for mo
 ### Acknowledgments
 
 - Special thanks to the coding challenge community for their support and inspiration.
-- The coding challenges can be found at various online platforms such as [Advent of Code](https://adventofcode.com), [LeetCode](https://leetcode.com), [CodeWars](https://www.codewars.com), and [HackerRank](https://www.hackerrank.com).
+- The coding challenges can be found at various online platforms such as Here is the updated sentence for your GitHub README:
+
+The coding challenges can be found at various online platforms such as [Advent of Code](https://adventofcode.com/), [LeetCode](https://leetcode.com/), [CodeWars](https://www.codewars.com/), [HackerRank](https://www.hackerrank.com/), [Project Euler](https://projecteuler.net/), [Topcoder](https://www.topcoder.com/), [USACO](http://www.usaco.org/), [Kaggle](https://www.kaggle.com/), [Python Challenge](http://www.pythonchallenge.com/), [W3resource](https://www.w3resource.com/), and [DataCamp](https://www.datacamp.com/).
 
 Happy coding!
