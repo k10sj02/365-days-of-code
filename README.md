@@ -1,4 +1,4 @@
-## Year-Round Code Challenges Solutions
+## Year-Round Code Challenges & Solutions
 
 Welcome to the Year-Round Code Challenges Solutions repository! This repository contains my solutions to various programming challenges, inspired by the Advent of Code puzzles. These challenges are great for honing your coding skills and exploring diverse problem-solving techniques throughout the year.
 
