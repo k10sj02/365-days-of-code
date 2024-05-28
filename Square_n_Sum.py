@@ -23,3 +23,5 @@ if __name__ == "__main__":
     example_list = [1, 2, 2]
     result = square_sum(example_list)
     print(f"The square sum of {example_list} is {result}")
+
+# Source: CodeWars
